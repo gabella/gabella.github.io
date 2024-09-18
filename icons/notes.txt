@@ -1,0 +1,13 @@
+20240823 weg
+  Create the icons for the top navigation bar:
+about-icon.png  cv-icon.png  research-icon.png   top-icon.png 
+
+  Probably should create my own.
+
+20240917 weg
+  Icons from flaticon.com, attribution
+<a href="https://www.flaticon.com/free-icons/copywriting" title="copywriting icons">Copywriting icons created by Moudesain - Flaticon</a>
+
+  Also some icons for free, without premium on
+https://fontawesome.com/icons/scroll?f=classic&s=solid
+
