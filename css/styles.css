@@ -78,3 +78,14 @@ h1 {
 .grid-item:hover {
     background-color: #7a9abd;
 }
+
+/* These are defaults according to
+   https://www.w3schools.com/TAGS/tag_iframe.asp 
+*/
+iframe:focus {
+    outline: none;
+  }
+  
+  iframe[seamless] {
+    display: block;
+  }
